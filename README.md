@@ -42,3 +42,7 @@ If you want to discover all the functions and features offered by the library yo
 ## Contact Us
 - [💻 Discord](https://link.codigoencasa.com/DISCORD)
 - [👌 𝕏 (Twitter)](https://twitter.com/leifermendez)
+
+## Agredecimientos
+- Chat bot echo con la libreria BuilderBot
+- Proyecto de muestra para posibles clientes y empleadores
